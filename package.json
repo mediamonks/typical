@@ -11,6 +11,6 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "typescript": "next"
+    "typescript": "^4.4.0-dev.20210602"
   }
 }

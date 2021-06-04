@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-typescript@next:
-  version "4.4.0-dev.20210530"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.0-dev.20210530.tgz#76e339bd974a7c5db18015feaec9309b6b6e2326"
-  integrity sha512-8kxsd6Uo8YcrX3yq2n9ltMdJomJD8oLH03UGCIQwIvG0TTGwqFfZf/c5II7c03C4Rfuegg6ld268mXEjF5f2nw==
+typescript@^4.4.0-dev.20210602:
+  version "4.4.0-dev.20210602"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.0-dev.20210602.tgz#15beefef5a149e250f257756f6da7e7d542413f3"
+  integrity sha512-YkMfJGVri0RxwxEN8mzJc/FtJUuBxE+wDKEZ+7sFdQ9n8CITJFRcZ1kOEApi2RCwOrBp3xFqLKv71tT7gSQXCA==
