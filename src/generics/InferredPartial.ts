@@ -4,7 +4,7 @@ import type { RequiredKey } from './RequiredKey'
 /**
  * Infer which properties are optional and make them so
  */
-type InferredPartial<T> = {
+export type InferredPartial<T> = {
   [P in RequiredKey<T>]: T[P]
 } &
   {

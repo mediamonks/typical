@@ -1,5 +1,9 @@
 {
+  "include": ["src"],
   "compilerOptions": {
-    "strict": true
+    "strict": true,
+    "outDir": "dist",
+    "declaration": true,
+    "emitDeclarationOnly": true
   }
 }

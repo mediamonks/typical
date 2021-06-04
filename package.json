@@ -7,7 +7,10 @@
   "repository": "git@github.com:mediamonks/typical.git",
   "author": "Nathan Uphoff <nathan.uphoff@mediamonks.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
-    "typescript": "^4.4.0-dev.20210528"
+    "typescript": "next"
   }
 }
